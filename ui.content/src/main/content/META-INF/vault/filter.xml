@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/conf/aem-solr" mode="merge"/>
+    <filter root="/content/aem-solr" mode="merge"/>
+    <filter root="/content/dam/aem-solr/asset.jpg" mode="merge"/>
+    <filter root="/content/experience-fragments/aem-solr" mode="merge"/>
+</workspaceFilter>
