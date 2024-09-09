@@ -165,6 +165,28 @@ Import-Package: javax.annotation;version=0.0.0,*
             <artifactId>org.apache.sling.models.api</artifactId>
         </dependency>
 
+     <!--
+        <dependency>
+            <groupId>org.apache.solr</groupId>
+            <artifactId>solr-solrj</artifactId>
+        </dependency>
+
+        <dependency>
+            <groupId>org.apache.solr</groupId>
+            <artifactId>solr-common</artifactId>
+        </dependency>
+-->
+
+        <dependency>
+            <groupId>org.apache.servicemix.bundles</groupId>
+            <artifactId>org.apache.servicemix.bundles.solr-solrj</artifactId>
+        </dependency>
+
+        <dependency>
+            <groupId>org.apache.zookeeper</groupId>
+            <artifactId>zookeeper</artifactId>
+        </dependency>
+
 
         <!-- Testing -->
         <dependency>
